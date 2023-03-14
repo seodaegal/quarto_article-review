@@ -1,0 +1,17 @@
+---
+title: "Treat-to-Target vs High-intensity Statin"
+author: "Seoyoon Kim"
+format: 
+  revealjs:
+    theme: serif
+---
+
+# 목표
+
+::: {.incremental}
+::::{.}
+:::{.column width="100%}
+- 관상동맥질환 환자에게 treat-to-target과 high-intensity statin의 비열등성을 보이기 위해
+
+:::
+:::
