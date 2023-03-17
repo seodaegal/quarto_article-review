@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "quarto_article.html#section",
+    "href": "quarto_article.html#section",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "",
+    "text": "목표\n\n\n관상동맥질환 환자에게 treat-to-target과 high-intensity statin의 비열등성(noninferiority)을 확인"
+  },
+  {
+    "objectID": "quarto_article.html#background",
+    "href": "quarto_article.html#background",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "Background",
+    "text": "Background\n\n\n\n관상동맥질환 환자들의 LDL-C level을 (50-70mg/dL로) 줄이기 위해 statin therapy가 추천되고 있다\n\n\n\n\n\nhigh-intensity statin을 사용하는 것이 스타틴의 강도를 조정할 필요가 없어서 편리하다\n\n하지만, 개인의 가변성과 장기간으로 사용됐을 때의 부작용 등이 문제이다\n\ntreat-to-target은 환자 맞춤이 가능하지만\n\n무작위 임상시험 증거가 충분하지 않아 experimental therapy\n\ntreat-to-target 방법이 더 안전하여, 두 치료 방법이 비열등성을 보여준다면 treat-to-target 방법이 더욱 나은 방안이 될 수 있다"
+  },
+  {
+    "objectID": "quarto_article.html#method",
+    "href": "quarto_article.html#method",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "Method",
+    "text": "Method\n\n\n\n연구 대상:\n\n관상동맥질환(CAD)을 임상진단 받은 환자들:허혈성 심질환과 급성 관상 동맥 증후군을 가지고 있는 환자들\n\n\n\n\n\n한국의 12개의 센터에서 3년간 (2016년- 2019년)\n4400명의 환자들이 1:1로 랜덤 배정\n2개의 statin(rosuvastatin or atorvastatin)도 한번 더 randomize\n6주 이후, 3, 6, 12, 24, 36개월 마다 환자의 상태를 확인해 복용량이나 유형을 변경 하였다"
+  },
+  {
+    "objectID": "quarto_article.html#population",
+    "href": "quarto_article.html#population",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "Population",
+    "text": "Population"
+  },
+  {
+    "objectID": "quarto_article.html#population-1",
+    "href": "quarto_article.html#population-1",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "Population",
+    "text": "Population\n\ntreat-to-target\n\n\nhigh-intensity statin therapy"
+  },
+  {
+    "objectID": "quarto_article.html#section-1",
+    "href": "quarto_article.html#section-1",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "",
+    "text": "treat-to-target\n\n\n\nstatin을 처음 복용하는 사람은 moderate-intensity statin\n\n10 mg rosuvastatin, 20 mg atorvastatin\n\nstatin을 이미 받았던 환자들은 LDL-C가 70 mg/dL일때 기존에 복용하던 양을 유지, 70 mg/dL 보다 높으면 uptitration\nnonstatin add-on therapy (ezetimibe)는 추천되지 않았다\n타겟에 도달하지 못했을 경우에만 high-intensity statin을 복용"
+  },
+  {
+    "objectID": "quarto_article.html#population-2",
+    "href": "quarto_article.html#population-2",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "Population",
+    "text": "Population\n\ntreat-to-target\n\n\nhigh-intensity statin therapy"
+  },
+  {
+    "objectID": "quarto_article.html#section-2",
+    "href": "quarto_article.html#section-2",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "",
+    "text": "high-intensity statin therapy\n\n\n\nrosuvastatin 20 mg, atorvastatin 40 mg\nLDL-C level에 의해 조정되지 않았다"
+  },
+  {
+    "objectID": "quarto_article.html#end-point",
+    "href": "quarto_article.html#end-point",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "End point",
+    "text": "End point\n\nprimary end point: major adverse cardiovascular events(MACE)와 뇌혈관병(cerebrovascular event) 발생률\nsecondary end point : 심부전으로 인한 입원, 새로운 당뇨병 발병, 말기 신장 질병 발생률 등등"
+  },
+  {
+    "objectID": "quarto_article.html#method-continued",
+    "href": "quarto_article.html#method-continued",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "Method continued",
+    "text": "Method continued\n\n비열등성의 마진은 3.0 percentage point로 지정\n\n1-sided 97.5% CI의 상계가 3.0 percentage points보다 작을 때 임상적으로 다르지 않다고 가정\n\nCom-Nougue approach (sample-size re-estimation)로 계산\n3년동안의 누적사건 발생률은 Kaplan-Meier curve로 예측 (time-to-event)\np-value가 0.05보다 작을 때 statistically significant로 지정"
+  },
+  {
+    "objectID": "quarto_article.html#결과",
+    "href": "quarto_article.html#결과",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "결과",
+    "text": "결과\n\nResultfigure\n\n\n\ntreat-to-target에서 high-intensity statin 복용: 1년에는 53%, 2년에는 55%, 3년에는 56%\nhigh-intensity statintherapy group에서는:1년에 93%, 2년에는 91%, 3년 후에는 89%\n6주후부터 treat-to-target 그룹이 ezetimibe를 더 사용하였다 (combination therapy)"
+  },
+  {
+    "objectID": "quarto_article.html#결과-1",
+    "href": "quarto_article.html#결과-1",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "결과",
+    "text": "결과\n\nresulttaret-to-treat grouphigh-intensity statin therapy group\n\n\n\n\n\n\n\n43%는 moderate-intensity statin, 54%는 high-intensity statin을 받았다\nuptitrated: 378명, downtitrated: 208명 , maintained: 1614명\n6주후에는 평균 LDL-C level이 high-intensity 그룹보다 높았다 (p<0.001)\n3년동안의 평균 LDL-C level은 69.1 mg/dL\nprimary endpoint는 177명 (8.1%)\n\n\n\n\n\n\n3년 동안의 평균 LDL-C level은 68.4 mg/dL\n\ntreat-to-target 그룹과 비교했을때 P=0.21\n\nprimary endpoint는 190명 (8.7%)\n\ntreat-to-target 그룹과의 차이는 -0.6 percentage points\n\nall-cause death는 treat에 54명, high에는 54(P=.99)\nMI는 treat에 34명, high에 26명 (0.4%, P=.23)\nstroke도 차이가 없었다"
+  },
+  {
+    "objectID": "quarto_article.html#primary-and-secondary-end-points",
+    "href": "quarto_article.html#primary-and-secondary-end-points",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "Primary and Secondary End Points",
+    "text": "Primary and Secondary End Points"
+  },
+  {
+    "objectID": "quarto_article.html#결론",
+    "href": "quarto_article.html#결론",
+    "title": "Treat-to-Target vs High-intensity Statin",
+    "section": "결론",
+    "text": "결론\n\ntreat-to-target이 high-intensity statin therapy group과 큰 차이가 없었다\n\nNon-inferior\n\n다만, non-inferiority margin 3.0 percentage point가 지나치게 관대한 CI라는 의견이 있었다"
+  }
+]

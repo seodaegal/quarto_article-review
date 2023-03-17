@@ -1,17 +1,183 @@
 ---
 title: "Treat-to-Target vs High-intensity Statin"
-author: "Seoyoon Kim"
+author: "Seo Yoon Kim"
 format: 
   revealjs:
     theme: serif
+    auto-animate-easing: ease-in-out
+    transiton: slide
+    background-transition: fade
 ---
 
-# 목표
 
-::: {.incremental}
-::::{.}
-:::{.column width="100%}
-- 관상동맥질환 환자에게 treat-to-target과 high-intensity statin의 비열등성을 보이기 위해
 
+## 
+::::{.columns}
+
+:::{.column width="50%}
+
+::: {style="font-size: 220%;"}
+목표
 :::
 :::
+
+:::{.column width="50%"}
+관상동맥질환 환자에게 treat-to-target과 high-intensity statin의 비열등성(noninferiority)을 확인
+:::
+::::
+
+
+
+
+## Background {transition="fade-in slide-out"}
+::: {style="font-size: 0.8em;"}
+:::{.nonincremental}
+- 관상동맥질환 환자들의 LDL-C level을 (50-70mg/dL로) 줄이기 위해 statin therapy가 추천되고 있다
+:::
+:::{.incremental}
+::: {.fragment}
+- high-intensity statin을 사용하는 것이 스타틴의 강도를 조정할 필요가 없어서 편리하다
+    + 하지만, 개인의 가변성과 장기간으로 사용됐을 때의 부작용 등이 문제이다
+    
+- treat-to-target은 환자 맞춤이 가능하지만  
+    + 무작위 임상시험 증거가 충분하지 않아 experimental therapy
+
+- treat-to-target 방법이 더 안전하여, 두 치료 방법이 비열등성을 보여준다면 treat-to-target 방법이 더욱 나은 방안이 될 수 있다
+:::
+:::
+:::
+
+## Method {transition="fade-in slide-out"}
+::: {style="font-size: 0.8em;"}
+:::{.nonincremental}
+- 연구 대상:
+  + 관상동맥질환(CAD)을 임상진단 받은 환자들:허혈성 심질환과 급성 관상 동맥 증후군을 가지고 있는 환자들
+:::
+:::{.incremental}
+- 한국의 12개의 센터에서 3년간 (2016년- 2019년)
+- 4400명의 환자들이 1:1로 랜덤 배정
+- 2개의 statin(rosuvastatin or atorvastatin)도 한번 더 randomize
+- 6주 이후, 3, 6, 12, 24, 36개월 마다 환자의 상태를 확인해 복용량이나 유형을 변경 하였다
+:::
+:::
+
+## Population {transition="fade-in slide-out"}
+
+![](https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi230025t1_1677617461.37365.png?Expires=1681702747&Signature=lcr~ZkosQakiKBeGxNmOWxzRJ~AiM0x~6iBkltCjV9yX2o9BJ8FyR99UBER5RaWXQeY6X4nAUBFgZ8clOioipJMvhaZD8vppvuBxy0tN1-l8ZE3sQzKBhffRmwljgfyE3wYJl8gahIzTYeuQbAmN-C~k9SWcxlwEfZMAIz5q3~E~ix1x5kthidFMbeFxl3ACflGGUF7dSSj-p7Kca96sX9g-pB0Zew~z1zsueMFjGs9p6SL7h1rau7Im3oKunJAn9T0nW11-t6hKzA7VYWO2GT0HXNOIbYIdnZ6PBtxDwVeLgaggr-CHLHxYEdynbH12EymHRtCudE37W19RuGnqSg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width=50%}
+
+
+## Population {auto-animate="true"}
+
+::: {style="margin-top: 100px;"}
+treat-to-target
+:::
+::: {style="margin_bottom: 100px;"}
+high-intensity statin therapy
+:::
+
+
+
+
+## {auto-animate=true}
+
+::: {style="margin-top: 15px; font-size: 2em; color: black;"}
+treat-to-target
+:::
+:::{.incremental}
+- statin을 처음 복용하는 사람은 moderate-intensity statin
+    + 10 mg rosuvastatin, 20 mg atorvastatin
+- statin을 이미 받았던 환자들은 LDL-C가 70 mg/dL일때 기존에 복용하던 양을 유지, 70 mg/dL 보다 높으면 uptitration
+- nonstatin add-on therapy (ezetimibe)는 추천되지 않았다
+- 타겟에 도달하지 못했을 경우에만 high-intensity statin을 복용
+:::
+
+
+## Population {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+treat-to-target
+:::
+::: {style="margin_bottom: 100px;"}
+high-intensity statin therapy
+:::
+
+## {auto-animate=true}
+::: {style="margin-top: 15px; font-size: 2em; color: black;"}
+high-intensity statin therapy
+:::
+:::{.incremental}
+- rosuvastatin 20 mg, atorvastatin 40 mg
+- LDL-C level에 의해 조정되지 않았다
+:::
+
+
+## End point {transition="fade-in slide-out"}
+- primary end point: major adverse cardiovascular events(MACE)와 뇌혈관병(cerebrovascular event) 발생률
+- secondary end point : 심부전으로 인한 입원, 새로운 당뇨병 발병, 말기 신장 질병 발생률 등등
+
+
+## Method continued {transition="fade-in slide-out"}
+- 비열등성의 마진은 3.0 percentage point로 지정
+    + 1-sided 97.5% CI의 상계가 3.0 percentage points보다 작을 때 임상적으로 다르지 않다고 가정
+- Com-Nougue approach (sample-size re-estimation)로 계산
+
+- 3년동안의 누적사건 발생률은 Kaplan-Meier curve로 예측 (time-to-event)
+
+- p-value가 0.05보다 작을 때 statistically significant로 지정
+
+
+## 결과{transition="fade-in slide-out"}
+::: panel-tabset
+### Result
+- treat-to-target에서 high-intensity statin 복용: 1년에는 53%, 2년에는 55%, 3년에는 56%
+- high-intensity statintherapy group에서는:1년에 93%, 2년에는 91%, 3년 후에는 89%
+- 6주후부터 treat-to-target 그룹이 ezetimibe를 더 사용하였다 (combination therapy)
+
+### figure
+![](https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi230025f2_1677617461.38367.png?Expires=1681702747&Signature=WDR3aqUdDCHMK8tlxQtUaI063~CTjGkuOzybyI2evA~hMcUUbr-5ZQgQEpGdzbyYrJCpbrWI-tfSfu4lknC86eGU10UUq4-0YcyWSAuDjLHxsb~zUaAfu~2igZwUJZDm4KkR9N6RX4b4aTO8ef23GKs6BHKvFg6QE2qG2HiwkmlG4HXlQBcoNVuYeU3vf0Em6UkHmxmt0L3O-L2e5GByA6Txs~fng60wrq8H6QYaZeYfLrPcTA6aEME~9MJOQV2OvRtjCegqfXY9LNni39EyhAE1u7GKTlGdWmeAJhLjU~iJs9ZM3GoHP6ub26r-e725tX9nlBcp-fwa4uiGwAcoeA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width=55%}
+
+
+:::
+
+
+
+## 결과 {transition="fade-in slide-out"}
+
+::: panel-tabset
+#### result
+![](https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi230025f3_1677617461.39367.png?Expires=1681702747&Signature=eKDe6NBkOXC64RYNTyFECuRg3DJQPAg-eW3GO7qbpZYudT0xvlJOHozhIMC5~Mru-DpV8vFfO9q14k6Llvexb5oZ4dlCe6R9tYkePsguiXNhRRARjibmm0lRgUYJ2DwoaApEXeH87sgqU04giIO3V5VsVEFoORVfN3Iisvt5kayV8I3FczWvJqoKptG27txhhbvDPWVPYASi9n0c00rd6DZjFL~2e76XcDPPcvQZIEjdsRPWOiwMeCvhMTxuzUCCd2hmwJSOOWGf8wfs5SoJ9~aSdLqxd~Ak0YO5-Ql36x5uGN5rglorjqnONW8apRqqylFtlKCSbctS-V4a~yuu~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width=80%}
+
+#### taret-to-treat group
+::: {style="font-size: 0.7em;"}
+- 43%는 moderate-intensity statin, 54%는 high-intensity statin을 받았다
+- uptitrated: 378명, downtitrated: 208명 , maintained: 1614명
+- 6주후에는 평균 LDL-C level이 high-intensity 그룹보다 높았다 (p<0.001)
+- 3년동안의 평균 LDL-C level은 69.1 mg/dL
+- primary endpoint는 177명 (8.1%)
+:::
+
+#### high-intensity statin therapy group
+::: {style="font-size: 0.8em;"}
+- 3년 동안의 평균 LDL-C level은 68.4 mg/dL
+    + treat-to-target 그룹과 비교했을때 P=0.21
+
+- primary endpoint는 190명 (8.7%)
+    + treat-to-target 그룹과의 차이는 -0.6 percentage points
+    
+- all-cause death는 treat에 54명, high에는 54(P=.99)
+- MI는 treat에 34명, high에 26명 (0.4%, P=.23)
+- stroke도 차이가 없었다 
+:::
+:::
+
+## Primary and Secondary End Points {transition="fade-in slide-out"}
+![](https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi230025t2_1677617461.40364.png?Expires=1681702747&Signature=h5EDAPKWFCeMh64478ncK2E~x9FKCSioe-BwI6MamCFzx9YDAjx3FBOYSJzGX~Ivq0qvYHKadOAe2jRsvAxFD-jQ19ws-n2aU9GFNsZPyd~1cWIYX4kEOFU3anEwRBiw6xHBYhLxdvKJtmlUVhmMm7qSuwLgND9hF0DcAb61rxWDKV~0csItUOtV-PGNA9tAXE0u-C2Plhkjq7uzbr7tjEFZLa3ARH4N86LzZWhNZ81yrcK-9WfxuGA~JragVCiMvuVfkXdVLjyl6t1o2EkFtDHGcRekHluQg9iMFiXzwonvK9Zt05tLiUVrODsI5dLdv7TBAEMtqYiFLjflmssDXQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+## 결론 {.smaller}
+
+- treat-to-target이 high-intensity statin therapy group과 큰 차이가 없었다 
+    + **Non-inferior**
+
+- 다만, non-inferiority margin 3.0 percentage point가 지나치게 관대한 CI라는 의견이 있었다
+
