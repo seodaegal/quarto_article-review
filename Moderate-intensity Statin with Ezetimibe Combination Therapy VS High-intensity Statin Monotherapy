@@ -1,0 +1,140 @@
+---
+title: "Moderate-intensity Statin with Ezetimibe Combination Therapy VS High-intensity Statin Monotherapy"
+author: "Seo Yoon Kim"
+format: 
+  revealjs:
+    theme: serif
+    auto-animate-easing: ease-in-out
+    transiton: slide
+    background-transition: fade
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+## 
+
+::: columns
+::: {.column width="\"50%"}
+::: {style="font-size: 1.5em;"}
+Objective
+:::
+:::
+
+::: {.column width="50%"}
+::: {style="font-size: 0.7em;"}
+Atherosclerotic cardiovascular diseases (ASCVD) 환자들에게
+moderate-intensity statin과 ezetimibe를 합친 combination therapy가
+high-intensity statin monotherapy보다 비열등(non-inferior)하다는 것을
+실험
+:::
+:::
+:::
+
+## Background {transition="fade-in slide-out"}
+
+::: incremental
+-   ASCVD 환자들에게 LDL cholestrol concentration을 낮추기 위해 (70
+    mg/dL 보다 낮게) 복용되는 약을 combination으로 복용하는 것이 한가지
+    약의 복용량을 늘리는 것에 비해 불내성이 낮고 효능이 좋다.
+-   하지만 아직까지 이를 뒤받칠 장기간 진행된 randomised clinical
+    trial이 없었다.
+:::
+
+## Method {transition="fade-in slide-out"}
+
+### 연구대상:
+
+::::{.columns} 
+:::{.column width="50%"} 
+- moderate-intensity statin과 ezetimibe를 복용하는 combination therapy를 받을 ASCVD 환자 1894
+명 
++ rosuvastatin 10 mg과 ezetimibe 10 mg 
+::: 
+:::{.column width="50%"}
+- high-intensity statin monotherapy를 받을 ASCVD 환자 1886명 
++ rosuvastatin 20 mg 
+:::
+::::
+
+
+## End point{transition="fade-in slide-out"}
+
+-   primary end point: 3년동안의 cardiovascular death, 주요 심혈관
+    사건, 비치명적 뇌졸중 (nonfatal stroke)로 지정하였다
+-   secondary end point: 임상효능과 안전성
+    -   임상효능은 LDL cholestrol concentration이 70 mg/dL보다 낮은
+        환자의 비율로 계산
+    -   사후검정으로 LDL-c concentration이 55 mg/dL 보다 낮은 환자들을
+        분석하였다
+        
+        
+## Method {transition="fade-in slide-out"}
+- 연구 대상: 
+    + 죽상경화증(ASCVD)을 임상진단 받은 환자들: LDL-c concentration이 70 mg/dL 보다 낮아야 되는 환자들
+
+:::{.incremental}
+- 3780명 환자들 무작위로 배정
+- 초기 지정된 약의 maintenance
+- 1 년간 진행 (2017-2018)
+:::
+
+## table {transition="fade-in slide-out"}
+<img src="table1.png" width="50%" height="50%"/>
+
+
+## 통계분석 {transition="fade-in slide-out"}
+:::{.incremental}
+-   범주형 변수는 숫자(퍼센트로) 표시
+-   연속 변수는 normal or skewed distribution의 평균(mean)과 중앙값(median)으로 표시
+-   시간에 따른 누적사건 발생률은 Kaplan-Meier method
+-   두 그룹의 사건 발생률은 log-rank test로 비교 (secondary endpoint도)
+-   primary endpoint의 발생률 차이가 one-sided 95% CI의 upper normal limit이 2.0%보다 작을 때 non-inferior
+-   imputation은 없었다
+:::
+
+
+
+## 결과 {transition="fade-in slide-out"}
+
+::: panel-tabset
+### result
+- Combination therapy 그룹에서는 primary endpoint가 총 172명
+- Monotherapy 그룹에서는 186명 ( -0.78% absolute difference)
+- primary endpoint의 차이(upper limit of one-sided 97.5%)는 1.13%
+    + non-inferiority margin에 들어왔다 (2.0%)
+    
+### figure
+<img src="figure1.png" width="40%" height="40%"/>
+
+:::
+
+
+## Sensitivity analysis {transition="fade-in slide-out"}
+- 지정된 therapy를 받지 않은 환자들을 배제
+- Combination therapy 그룹에서는 160명 (9.1 %)
+- Monotherapy 그룹에서는 158명 (9.4%)
+- primary endpoint의 차이(upper limit of one-sided 97.5%)는 1.69%
+
+
+## Secondary endpoint의 결과 {transition="fade-in slide-out"}
+::: panel-tabset
+### result
+- LDL-C concentration이 70 mg/dL at 1, 2, and 3 years:
+  + combination: 1675명 중 1217명, 1558명 중 1168명, 1349명 중 978명
+  + monotherapy: 1673명 중 923명, 1539명 중 924명, 1315명 중 759명
+
+### table
+<img src="table2.png" width="70%" height="50%"/>
+:::
+
+
+
+## 결론 {transition="fade-in slide-out"}
+
+- moderate-intensity statin과 ezetimibe combination therapy는 high-intensity statin monotherapy와 non-inferior
+- ezetimibe는 LDL cholestrol concentration을 13-20% 줄였다
+- adverse effect of statin therapy are more associated with the use of high-intensity statins
+- ezetimibe와 statin을 활용한 방법의 임상효능과 안정성 더욱 좋았다
+
